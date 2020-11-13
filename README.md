@@ -1,26 +1,26 @@
 # GPT-generation
 
 Input menu.dat
-one
-	oneone
-	onetwo
-		onetwothree
-	onethree
-two
-	aaa
-		xxx
-			zzz
-		yyy
-	bbb
-	ccc
-three
-	abc
-	pqr
-		ppp
-			qqq
-	rrr
-four
-five
+one\
+	oneone\
+	onetwo\
+		onetwothree\
+	onethree\
+two\
+	aaa\
+		xxx\
+			zzz\
+		yyy\
+	bbb\
+	ccc\
+three\
+	abc\
+	pqr\
+		ppp\
+			qqq\
+	rrr\
+four\
+five\
 
 Run commands
 gcc A1_PES1201701142.c -o codegen
